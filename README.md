@@ -1,6 +1,6 @@
 # super-wallet
 Stop being annoyed by the fake crypto wallet. Use our wallet!
-PS: You need to install google chrome for superwallet.
+PS: You need to install google chrome for superwallet. Only in french version for the moment (will be updated).
 
 # Usage
 superwallet command: -trade, -online, -buy, -sell, -cac40, -wallet
