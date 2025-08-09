@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\GCC\\bin\\gcc.exe",
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
